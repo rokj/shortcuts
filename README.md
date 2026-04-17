@@ -13,15 +13,6 @@
    cd /path/to/roundcube/plugins
    git clone https://github.com/rokj/shortcuts.git
 
-The folder structure should look like:
-
-roundcube/
-└── plugins/
-    └── shortcuts/
-        ├── shortcuts.php
-        └── compose-shortcuts.js
-        └── main-shortcuts.js
-
 2. Enable the plugin in your Roundcube config (config/config.inc.php):
 
     ```php
