@@ -1,7 +1,7 @@
 # Roundcube Plugin Shortcuts: 
 
-- Ctrl+Enter to Send email
-- c to start Composing email
+- Ctrl+Enter (⌘+Enter) to send email
+- c to start composing email
 
 ---
 
@@ -25,6 +25,6 @@
 
 While writing an email in the HTML editor (TinyMCE):
 
-Press Ctrl+Enter (Windows/Linux) to send.
+Press Ctrl+Enter (Windows/Linux) or ⌘+Enter (macOS) to send email.
 
-While on main screen, press c to open Compose page.
+While on main screen, press c to open compose page.
