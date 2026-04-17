@@ -1,6 +1,6 @@
 # Roundcube Plugin Shortcuts: 
 
-- Ctrl+Enter (⌘+Enter) to Send email
+- Ctrl+Enter to Send email
 - c to start Composing email
 
 ---
